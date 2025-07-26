@@ -1,5 +1,12 @@
 {
-  "luas": [
-    "maskotresolver"
-  ]
+  "folders": {
+    "Resolver": [
+      "maskotresolver",
+      "anotherresolver"
+    ],
+    "Visual": [
+      "esp",
+      "chams"
+    ]
+  }
 }
